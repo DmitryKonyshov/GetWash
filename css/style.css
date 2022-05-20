@@ -70,7 +70,7 @@ ul li {
 
 @font-face {
     font-family: "GT Eesti Pro Display";
-    src: url(/fonts/GTEestiProText-Regular.woff2);
+    src: url(../fonts/GTEestiProText-Regular.woff2);
 }
 
 @media (max-width: 600px) {
