@@ -67,6 +67,79 @@ ul li {
     text-decoration: none;
 }
 
+.utp {
+    display: flex;
+    flex-direction: column;
+}
+
+.first-text-utp {
+    width: 620px;
+    height: 154px;
+    margin-left: 135px;
+    margin-top: 222px;
+    font-family: "GT Eesti Pro Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 125%;
+    color: #141b41;
+}
+
+.second-text-utp {
+    width: 524px;
+    height: 93px;
+    padding-left: 135px;
+    padding-top: 50px;
+    font-family: "GT Eesti Pro Display";
+    font-style: normal;
+    font-weight: 350;
+    font-style: 24px;
+    line-height: 140%;
+    color: #72727e;
+}
+
+.arrow {
+    width: 100px;
+    height: 0px;
+    margin-left: 485px;
+    margin-top: -37px;
+    margin-right: 855px;
+    margin-bottom: auto;
+}
+
+.button-utp {
+    width: 240px;
+    height: 60px;
+    margin-left: 135px;
+    margin-top: 29px;
+    background: #446DF6;
+    border-radius: 6px;
+}
+
+.text-button-utp {
+    width: 138px;
+    height: 25px;
+    padding-top: 18px;
+    padding-right: 51px;
+    padding-bottom: 17px;
+    padding-left: 51px;
+    font-family: "GT Eesti Pro Display";
+    font-style: normal;
+    font-weight: 500;
+    font-style: 18px;
+    line-height: 140%;
+    color: #eeeeee;
+}
+
+.iphone-image {
+    width: 1040px;
+    height: 744px;
+    margin-top: -550px;
+    margin-left: 534px;
+    margin-bottom: 2432px;
+    margin-right: 134px;
+}
+
 
 @font-face {
     font-family: "GT Eesti Pro Display";
