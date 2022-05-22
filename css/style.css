@@ -68,8 +68,8 @@ ul li {
 }
 
 .utp {
-    display: flex;
-    flex-direction: column;
+    /* display: flex;
+    flex-direction: column; */
 }
 
 .first-text-utp {
