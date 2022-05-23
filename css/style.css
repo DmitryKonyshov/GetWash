@@ -67,11 +67,6 @@ ul li {
     text-decoration: none;
 }
 
-.utp {
-    /* display: flex;
-    flex-direction: column; */
-}
-
 .first-text-utp {
     width: 620px;
     height: 154px;
@@ -132,15 +127,19 @@ ul li {
 }
 
 .iphone-image {
-    width: 1040px;
+    width: 900px;
     height: 744px;
     margin-top: -550px;
-    margin-left: 534px;
+    margin-left: 384px;
     margin-bottom: 2432px;
-    margin-right: 134px;
+    padding-left: 130px;
 }
-
-
+.shapewave{
+    margin-top: -400px;
+    margin-left: 50px;
+    opacity: 50%;
+    transform: rotate(-11.25deg);
+}
 @font-face {
     font-family: "GT Eesti Pro Display";
     src: url("../fonts/GTEestiProText-Regular.woff2");
